@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="seh-web-jobhunter:war">
+    <output-path>$PROJECT_DIR$/seh-web-jobhunter/target</output-path>
+    <root id="archive" name="seh-web-jobhunter-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="seh-web-jobhunter:war exploded" />
+    </root>
+  </artifact>
+</component>

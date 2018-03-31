@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-util/common-util.iml" filepath="$PROJECT_DIR$/common-util/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seh.iml" filepath="$PROJECT_DIR$/seh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seh-core/seh-core.iml" filepath="$PROJECT_DIR$/seh-core/seh-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seh-web-admin/seh-web-admin.iml" filepath="$PROJECT_DIR$/seh-web-admin/seh-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seh-web-api/seh-web-api.iml" filepath="$PROJECT_DIR$/seh-web-api/seh-web-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seh-web-jobhunter/seh-web-jobhunter.iml" filepath="$PROJECT_DIR$/seh-web-jobhunter/seh-web-jobhunter.iml" />
+    </modules>
+  </component>
+</project>
